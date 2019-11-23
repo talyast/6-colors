@@ -1,0 +1,21 @@
+﻿  Board.cpp
+  Computer.cpp
+C:\Users\sberelowitz\Desktop\ex4 6 color\Project1\Shapes.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameController.cpp
+C:\Users\sberelowitz\Desktop\ex4 6 color\Project1\Players.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Main.cpp
+C:\Users\sberelowitz\Desktop\ex4 6 color\Project1\GameController.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Players.cpp
+C:\Users\sberelowitz\Desktop\ex4 6 color\Project1\GameController.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Rectangle.cpp
+C:\Users\sberelowitz\Desktop\ex4 6 color\Project1\Players.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Shapes.cpp
+C:\Users\sberelowitz\Desktop\ex4 6 color\Project1\Shapes.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  ToolBar.cpp
+C:\Users\sberelowitz\Desktop\ex4 6 color\Project1\Shapes.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Triangle.cpp
+C:\Users\sberelowitz\Desktop\ex4 6 color\Project1\ToolBar.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  User.cpp
+C:\Users\sberelowitz\Desktop\ex4 6 color\Project1\Shapes.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
+C:\Users\sberelowitz\Desktop\ex4 6 color\Project1\Players.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
